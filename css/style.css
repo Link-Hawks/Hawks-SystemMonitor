@@ -1,0 +1,27 @@
+.principal{
+    margin: 15px;
+}
+
+.conjuntoServicos{
+    float:left;
+    height: 250px;
+    padding:10px;
+    text-align: center;
+    max-width: 300px;
+}
+
+.servicos{
+    margin-right:1em;
+    float:left;
+    height: 80px;
+    margin:0 auto;
+}
+
+.card-body img{
+    margin-top:-40px;
+}
+
+.dark-color{
+    background-color:#616161;
+    color:#fff;
+}
